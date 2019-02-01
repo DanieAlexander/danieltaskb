@@ -4,4 +4,4 @@
 
 ![alt text][logo]
 
-[logo] = https://i.imgur.com/SHEckFT.png
+[logo]: https://i.imgur.com/SHEckFT.png
